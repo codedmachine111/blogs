@@ -222,3 +222,10 @@ pre tt:before,
 pre tt:after {
   content: none;
 }
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
